@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Создание персонажа", "Создание персонажа\Создание персонажа.csproj", "{A579BD19-65EB-42E6-A9C3-C5E3D03EEB23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A579BD19-65EB-42E6-A9C3-C5E3D03EEB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A579BD19-65EB-42E6-A9C3-C5E3D03EEB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A579BD19-65EB-42E6-A9C3-C5E3D03EEB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A579BD19-65EB-42E6-A9C3-C5E3D03EEB23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7458CFE-1625-4B13-A0B5-53B54605680D}
+	EndGlobalSection
+EndGlobal

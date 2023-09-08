@@ -1,0 +1,46 @@
+"Кубик здоровья: 1d10 за уровень воина" +Environment.NewLine+
+"Очки здоровья на 1 уровне: 10 + модификатор Телосложения" +Environment.NewLine+
+
+"Умения" +Environment.NewLine+
+"Доспехи: Любые доспехи, щиты" +Environment.NewLine+
+"Оружие: Простое оружие, боевое оружие" +Environment.NewLine+
+"Спасброски: Сила, Телосложение" +Environment.NewLine+
+
+"Умения: Выберите два из: Акробатика, Дрессировка," +Environment.NewLine+
+"Атлетика, История, Интуиция, Запугивание, Восприятие" +Environment.NewLine+
+"и Выживание" +Environment.NewLine+
+
+"Второе дыхание" +Environment.NewLine+
+"В свой ход в качестве доп. действия вы можете" +Environment.NewLine+
+"восстановить себе d10 + ваш уровень ОЗ." +Environment.NewLine+
+"Повторное использование возможно только после отдыха." +Environment.NewLine+
+
+"Боевой стиль" +Environment.NewLine+
+"Вы выбираете определенный стиль боя в качестве своей" +Environment.NewLine+
+"специальности." +Environment.NewLine+
+
+"Стрельба" +Environment.NewLine+
+"Вы получаете бонус +2 к броскам атаки любым оружием дальнего боя." +Environment.NewLine+
+
+"Оборона" +Environment.NewLine+
+"Когда вы одеты в доспехи, вы получаете бонус +1 к КБ" +Environment.NewLine+
+
+"Дуэлянт" +Environment.NewLine+
+"Когда вы сражаетесь с оружием в одной руке, и никаким" +Environment.NewLine+
+"оружием больше, вы получаете +2 к урону этим оружием." +Environment.NewLine+
+
+"Двуручное оружие" +Environment.NewLine+
+"Выбросив 1 или 2 при броске урона двуручным оружием," +Environment.NewLine+
+"вы можете бросить кубик снова и использовать новый" +Environment.NewLine+
+"результат, даже если он снова равен 1 или 2. Оружие" +Environment.NewLine+
+"должно быть двуручным или универсальным, чтобы эта" +Environment.NewLine+
+"способность действовала на него." +Environment.NewLine+
+
+"Защита" +Environment.NewLine+
+"Если существо, которое вы видете, атакует цель в" +Environment.NewLine+
+"5 футах от вас, вы можете среагировать и" +Environment.NewLine+
+"создать помеху для этой атаки. (необходим щит)." +Environment.NewLine+
+
+"Бой двумя оружиями" +Environment.NewLine+
+"Если вы сражаетесь двумя оружиями, то можете добавить" +Environment.NewLine+
+"модификатор параметра к урону второй атаки."

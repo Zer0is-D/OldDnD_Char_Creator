@@ -1,0 +1,9 @@
+"Человек" +Environment.NewLine+
+"Увеличение параметров. Все ваши параметры увеличены" +Environment.NewLine+
+"на 1." +Environment.NewLine+
+
+"Размер. Рост и телосложение людей сильно разнятся, от" +Environment.NewLine+
+"примерно 5 футов до более чем 6 футов. Независимо от" +Environment.NewLine+
+"вашего конкретного роста, ваш размер Средний." +Environment.NewLine+
+
+"Скорость. Базовая скорость передвижения 30 футов." +Environment.NewLine+

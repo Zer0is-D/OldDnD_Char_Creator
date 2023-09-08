@@ -1,0 +1,29 @@
+"Кубик здоровья: 1d8 за уровень барда" +Environment.NewLine+
+"Очки здоровья на 1 уровне: 8 + модификатор Телосложения" +Environment.NewLine+
+
+
+"Умения" +Environment.NewLine+
+"Доспехи: Легкая броня" +Environment.NewLine+
+"Оружие: Простое оружие, ручные арбалеты, длинные мечи," +Environment.NewLine+
+"рапиры, короткие мечи" +Environment.NewLine+
+"Инструменты: Три музыкальных инструмента на ваш выбор" +Environment.NewLine+
+"Спасброски: Ловкость, Харизма" +Environment.NewLine+
+"Умения: Выберите любые три" +Environment.NewLine+
+
+
+"Вашим параметром заклинаний является Харизма.4" +Environment.NewLine+
+
+"КС спасброска = 8 + бонус мастерства + модификатор" +Environment.NewLine+
+"Харизмы" +Environment.NewLine+
+
+"Модификатор атаки заклинанием = бонус мастерства +" +Environment.NewLine+
+"модификатор Харизмы" +Environment.NewLine+
+
+
+"Трюки(фокусы):" +Environment.NewLine+
+"Вы знаете два трюка на выбор из списка заклинаний барда" +Environment.NewLine+
+
+"Известные заклинания" +Environment.NewLine+
+"Вы знаете 4 заклинания 1 круга из списка заклинаний барда" +Environment.NewLine+
+"на ваш выбор."
+

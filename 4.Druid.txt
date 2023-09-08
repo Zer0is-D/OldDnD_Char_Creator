@@ -1,0 +1,30 @@
+"Кубик здоровья: 1d8" +Environment.NewLine+
+"Очки здоровья: 8 + модификатор Телосложения" +Environment.NewLine+
+
+"Умения" +Environment.NewLine+
+"Доспехи: Легкие и средние доспехи, щиты (друиды не" +Environment.NewLine+
+"используют доспехи и щиты, изготовленные из металлов)" +Environment.NewLine+
+
+"Оружие: Дубинки, кинжалы, дротики, метательные копья," +Environment.NewLine+
+"булавы, короткие посохи, скимитары, серпы, пращи, копья" +Environment.NewLine+
+
+"Инструменты: Набор травника" +Environment.NewLine+
+
+"Спасброски: Интеллект, Мудрость" +Environment.NewLine+
+
+"Умения: Выберите два из: Тайные Знания, Дрессировка," +Environment.NewLine+
+"Интуиция, Лечение, Природа, Восприятие, Религия и" +Environment.NewLine+
+"Выживание." +Environment.NewLine+
+
+"Трюки" +Environment.NewLine+
+"На 1 уровне вы знаете 2 трюка из списка заклинаний" +Environment.NewLine+
+"друида" +Environment.NewLine+
+
+"Параметр заклинаний" +Environment.NewLine+
+"Вашим параметром для заклинаний друида является Мудрость. " +Environment.NewLine+
+
+"КС спасброска = 8 + бонус мастерства + модификатор" +Environment.NewLine+
+"Мудрости" +Environment.NewLine+
+
+"Модификатор атаки заклинанием = бонус мастерства +" +Environment.NewLine+
+"модификатор Мудрости" +Environment.NewLine+
